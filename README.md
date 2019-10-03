@@ -23,7 +23,7 @@ The images give an idea of the features used for both the datasets.
 
 ## Project Structure
 ### Code Structure
-* ```GUI```: This folder contains a gui that uses the model and predicts the audio samples. Built using Tkinter
+* ```GUI```: This folder contains a gui that uses the model and predicts the audio samples. Built using Tkinter[Demo](https://www.youtube.com/watch?time_continue=10&v=AOFCgibb-6Y)
 * ```Code```: Code for various models and training and feature extraction
 * ```data```: Extracted features
 * ```imgs```: Model training plots and feature example images
