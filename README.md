@@ -34,4 +34,5 @@ The models were trained on a Dell G7 with 16Gb ram and 4gb Nvidia-1060 graphic c
 ![Model3 accuracy](https://github.com/nitinchakravarthy/Audioclip-Classifier/blob/master/images/model3_accuracy.png)
 ![Model3 loss](https://github.com/nitinchakravarthy/Audioclip-Classifier/blob/master/images/model3_loss.png)
 
-
+## Data Augmentation
+Further to make the models more robust, we augmented the data with random background noise and random time shift. This improved the accuracy from 88% to 91%.
